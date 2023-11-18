@@ -1,0 +1,162 @@
+/* General styles */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing:border-box;
+}
+html {
+	font-size: 62.5%;
+}
+
+body {
+	height: 100%;
+	font-family:sans-serif;
+	font-size: 1.9rem;
+	color: #fff;
+	background-image: url(https://dinotechno.com/storage/2022/07/Best-Sites-to-Download-Mac-Wallpapers-FI.jpg);
+	background-size:cover;
+	display: grid;
+	place-items: center;
+}
+.card h3 , .card p{
+	text-align: center;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+/* image_styling */
+#css-logo{
+	width: 208px;
+	border-radius: 5px;
+}
+
+#css-logo2{
+	width: 250px;
+	border-radius: 5px;
+}
+
+#css-logo3{
+	width: 460px;
+	border-radius: 5px;
+}
+
+#css-logo4{
+	width: 320px;
+	border-radius: 5px;
+}
+
+#css-logo5{
+	width: 250px;
+	border-radius: 5px;
+}
+
+.option {
+	font-size: 14px;
+    margin-right: 65px;
+    margin-left: 65px;
+    color: #b7b8c0;
+    margin-top: 16px;
+}
+
+.container {
+	width: 100%;
+	padding: 5px 10px;
+	margin: 10px 10px;
+}
+.cards {
+	display: grid;
+	grid-template-columns: repeat(6, 1fr);
+	grid-gap: 1.5rem;
+}
+
+.cards2 {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	grid-gap: 1.5rem;
+}
+
+.cards3 {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	grid-gap: 1.5rem;
+}
+
+.cards4 {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 1.5rem;
+}
+
+.cards5 {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 1.5rem;
+}
+
+.cards6 {
+	display: grid;
+	grid-template-columns: repeat(5, 1fr);
+	grid-gap: 1.5rem;
+}
+
+.cards7 {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-gap: 1.5rem;
+}
+.card {
+	background: #262525;
+	color:#e0e1e2;
+	padding: 1.5rem;
+	overflow: hidden;
+	border-radius: 0.8rem;
+}
+
+.time {
+	margin-right:80%;
+	color:rgb(255, 68, 249);
+	box-shadow: 1 8rem 12rem rgba(0,0,0,0.4),0 12px 13px rgba(0,0,0,0.16);
+}
+
+
+
+.card-title-large {
+	font-family: fantasy, sans-serif;
+	font-size: 10rem;
+	letter-spacing: 0.5rem;
+	color: #1d1d1d;
+    user-select: none;
+	transform: translateX(7rem);
+	transition: transform 2.5s;
+}
+.card-title-small {
+	margin-bottom: 1rem;
+}
+.card-description {
+	font-size: 1.4rem;
+	line-height: 1.5;
+}
+.card-cta {
+	display: inline-block;
+	width: 3.5rem;
+	height: 3.5rem;
+	border-radius: 50%;
+	display: grid;
+	place-items: center;
+	margin-left: auto;
+}
+.card:hover .card-cta {
+	background-color: #262525;
+}
+.main-heading{
+	margin: 35px;
+	padding: 11px;
+	color: black;
+	border:  7px solid black;
+	border-radius: 10px;
+}
+.sub-heading{
+	padding: 20px 0px;
+	color: black;
+}

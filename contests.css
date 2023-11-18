@@ -1,0 +1,104 @@
+/* General styles */
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing:border-box;
+}
+html {
+	font-size: 62.5%;
+}
+
+body {
+	height: 100%;
+	font-family:sans-serif;
+	font-size: 1.9rem;
+	color: #fff;
+	background-image: url(https://dinotechno.com/storage/2022/07/Best-Sites-to-Download-Mac-Wallpapers-FI.jpg);
+	background-size:cover;
+	display: grid;
+	place-items: center;
+}
+.cards :hover{
+	background-color: #26577C;
+	border-radius: 10px;
+	.card-title-small{
+		color: red;
+	}
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+/* image_styling */
+#card-icons{
+	width: 455px;
+	border-radius: 8px;
+}
+
+.option {
+	font-size: 14px;
+    margin-right: 65px;
+    margin-left: 65px;
+    color: #b7b8c0;
+    margin-top: 16px;
+}
+
+.container {
+	/* max-width: 110rem; */
+	padding: 1.5rem;
+}
+.cards {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	grid-gap: 10px;
+}
+.card {
+	background: #262525;
+	color:#e0e1e2;
+	padding: 1.5rem;
+	overflow: hidden;
+	border-radius: 0.8rem;
+}
+.card-title-large {
+	font-family: fantasy, sans-serif;
+	font-size: 10rem;
+	letter-spacing: 0.5rem;
+	color: #1d1d1d;
+    user-select: none;
+	transform: translateX(7rem);
+	transition: transform 2.5s;
+}
+.card-title-small {
+	margin-bottom: 1rem;
+}
+.card-description {
+	font-size: 1.4rem;
+	line-height: 1.5;
+}
+.card-cta {
+	display: inline-block;
+	width: 3.5rem;
+	height: 3.5rem;
+	border-radius: 50%;
+	display: grid;
+	place-items: center;
+	margin-left: auto;
+}
+.card:hover .card-cta {
+	background-color: #262525;
+}
+.main-heading{
+	margin: 35px;
+	padding: 11px;
+	color: black;
+	border:  7px solid black;
+	border-radius: 10px;
+}
+.sub-heading{
+	padding: 10px 0px;
+}
+
+.card h3 {
+	text-align: center;
+}
+
