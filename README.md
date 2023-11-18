@@ -1,11 +1,11 @@
 # Coders Base
 An ultimate hub for finding coding resources for programmers
 
-# Soft CodeHack 2.0
+# Geekathon 1.0
 
-"Soft CodeHack 2.0" is an exciting and inspiring 60 Hours Hackathon, brought to you by the PHICSIT community.
+Geekathon 1.0: The Hybrid Hackathon at VIT-AP University By GFG VITAP STUDENT CHAPTER
  
-# TEAM NAME - Geeks Army
+# TEAM NAME - Code Champs
 
 TEAM LEADER - Soumalya Bhattacharyya(Github Username - soucharya19)
 
@@ -13,9 +13,17 @@ TEAM LEADER - Soumalya Bhattacharyya(Github Username - soucharya19)
 
 3rd TEAMMATE - Soumik Ghosh(GitHub Username - Soumik-Ghosh07)
 
-4th TEAMMATE - Aritra Sur(GitHub Username -  AritraSur2001)
+4th TEAMMATE - Souvik Ghosh(GitHub Username -  )
 
-# THEME - Open Innovation
+5th TEAMMATE - Soumyadeep Banerjee(GitHub Username - soubanj270)
+
+# THEME - Web Dev Track
+
+# STATEMENT - Career and Job assistant
+
+# DESCRIPTION 
+
+Create a student-centric platform offeringpersonalized profiles, job recommendations,and a robust resume builder for effectivecareer planning. Enhance skill developmentwith comprehensive resources, industryinsights, and networking opportunitiesthrough virtual and in-person events.Introduce an alumni mentorship program,diverse internship opportunities, careerassessments, and engaging challenges toempower students in their academic andprofessional journey.
 
 # WEB DEVELOPMENT PROJECT - Coders Base
 
